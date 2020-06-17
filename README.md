@@ -18,7 +18,6 @@ Vadim Sherbakov @ unsplash.com
 
 Sound:
 Pop 2 by greenvwbeetle @freesound.org
-*/
 
 
 
